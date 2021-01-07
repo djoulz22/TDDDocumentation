@@ -80,7 +80,7 @@ En premier paramètre de la fonction it, nous mettons le nom du test qui sera pl
 En deuxième paramètre, nous mettons une fonction qui permettra de définir si le test est bon ou non.
 
 Le wrapper représente notre composant monté en utilisant la factory expliquée précédemment. Il existe de nombreuses méthodes permettant d'accéder aux données de notre composant en utilisant la variable wrapper :
-**https://vue-test-utils.vuejs.org/api/wrappe**
+**https://vue-test-utils.vuejs.org/api/wrapper**
 
 expect, comme son nom l'indique décrit ce que le test doit vérifier. De même, il existe plusieurs méthodes permettant de tester :
 **https://jestjs.io/docs/en/expect**
